@@ -1,0 +1,5 @@
+websites:
+  - name: Example Website 1
+    url: "https://digitalent.kominfo.go.id/akademi/FGA"
+    tags:
+      - "//a[@class='d-block mb-2']/h5"
